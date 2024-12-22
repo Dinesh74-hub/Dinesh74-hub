@@ -1,0 +1,63 @@
+C:\c#\ui1\ui1\obj\x86\Release\ui1.Form1.resources
+C:\c#\ui1\ui1\obj\x86\Release\Ui1.f_company_master.resources
+C:\c#\ui1\ui1\obj\x86\Release\Ui1.f_loader_image.resources
+C:\c#\ui1\ui1\obj\x86\Release\Ui1.f_super_admin_control_panel.resources
+C:\c#\ui1\ui1\obj\x86\Release\Ui1.f_user_login.resources
+C:\c#\ui1\ui1\obj\x86\Release\ui1.Properties.Resources.resources
+C:\c#\ui1\ui1\obj\x86\Release\ui1.csproj.GenerateResource.Cache
+C:\c#\ui1\ui1\bin\Release\ui1.exe.config
+C:\c#\ui1\ui1\bin\Release\ui1.exe
+C:\c#\ui1\ui1\bin\Release\ui1.pdb
+C:\c#\ui1\ui1\obj\x86\Release\Ui1.f_main_form.resources
+C:\c#\ui1\ui1\obj\x86\Release\Ui1.f_menu_master.resources
+C:\c#\ui1\ui1\obj\x86\Release\Ui1.f_user_event_mapped.resources
+C:\c#\ui1\ui1\obj\x86\Release\Ui1.f_user_menu_mapped.resources
+C:\c#\ui1\ui1\obj\x86\Release\ui1.exe
+C:\c#\ui1\ui1\obj\x86\Release\ui1.pdb
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\bin\Release\Ui1.exe.config
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\bin\Release\Ui1.exe
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\bin\Release\Ui1.pdb
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Release\ui1.Form1.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_company_master.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_loader_image.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_main_form.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_menu_master.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_super_admin_control_panel.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_user_event_mapped.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_user_login.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_user_menu_mapped.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Release\Ui1.Properties.Resources.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Release\Ui1.csproj.GenerateResource.Cache
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Release\Ui1.exe
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Release\Ui1.pdb
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\bin\Release\Ui1.exe.config
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\bin\Release\Ui1.exe
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\bin\Release\Ui1.pdb
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_company_master.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_loader_image.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_main_form.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_super_admin_control_panel.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_user_event_mapped.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_user_login.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_user_menu_mapped.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Release\Ui1.Properties.Resources.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Release\Ui1.csproj.GenerateResource.Cache
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Release\Ui1.exe
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Release\Ui1.pdb
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_event_master.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\bin\Release\Ui1.exe.config
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\bin\Release\Ui1.exe
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\bin\Release\Ui1.pdb
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_company_master.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_loader_image.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_main_form.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_event_master.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_menu_master.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_super_admin_control_panel.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_user_event_mapped.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_user_login.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Release\Ui1.f_user_menu_mapped.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Release\Ui1.Properties.Resources.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Release\Ui1.csproj.GenerateResource.Cache
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Release\Ui1.exe
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Release\Ui1.pdb

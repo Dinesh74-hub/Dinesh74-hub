@@ -1,0 +1,241 @@
+C:\c#\ui1\ui1\bin\Debug\ui1.exe.config
+C:\c#\ui1\ui1\bin\Debug\ui1.exe
+C:\c#\ui1\ui1\bin\Debug\ui1.pdb
+C:\c#\ui1\ui1\obj\x86\Debug\ui1.Form1.resources
+C:\c#\ui1\ui1\obj\x86\Debug\Ui1.f_user_login.resources
+C:\c#\ui1\ui1\obj\x86\Debug\ui1.Properties.Resources.resources
+C:\c#\ui1\ui1\obj\x86\Debug\ui1.csproj.GenerateResource.Cache
+C:\c#\ui1\ui1\obj\x86\Debug\ui1.exe
+C:\c#\ui1\ui1\obj\x86\Debug\ui1.pdb
+C:\c#\ui1\ui1\obj\x86\Debug\Ui1.f_company_master.resources
+C:\c#\ui1\ui1\obj\x86\Debug\Ui1.f_loader_image.resources
+C:\c#\ui1\ui1\obj\x86\Debug\Ui1.f_super_admin_control_panel.resources
+C:\c#\ui1\ui1\obj\x86\Debug\Ui1.f_main_form.resources
+C:\c#\ui1\ui1\obj\x86\Debug\Ui1.f_menu_master.resources
+C:\c#\ui1\ui1\obj\x86\Debug\Ui1.f_user_event_mapped.resources
+C:\c#\ui1\ui1\obj\x86\Debug\Ui1.f_user_menu_mapped.resources
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\bin\Debug\Ui1.exe.config
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\bin\Debug\Ui1.exe
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\bin\Debug\Ui1.pdb
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\obj\x86\Debug\ui1.Form1.resources
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_company_master.resources
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_loader_image.resources
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_main_form.resources
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_menu_master.resources
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_super_admin_control_panel.resources
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_event_mapped.resources
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_login.resources
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_menu_mapped.resources
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\obj\x86\Debug\Ui1.Properties.Resources.resources
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csproj.GenerateResource.cache
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\obj\x86\Debug\Ui1.exe
+D:\APP BACKUP\DEC2023\15_12_2023\ui1\ui1\obj\x86\Debug\Ui1.pdb
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\bin\Debug\Ui1.exe.config
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Debug\Ui1.exe
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Debug\Ui1.pdb
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\bin\Debug\Ui1.exe
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\bin\Debug\Ui1.pdb
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Debug\ui1.Form1.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_company_master.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_loader_image.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_main_form.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_menu_master.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_super_admin_control_panel.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_event_mapped.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_login.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_menu_mapped.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Debug\Ui1.Properties.Resources.resources
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csproj.GenerateResource.Cache
+D:\APP BACKUP\DEC2023\16_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csprojResolveAssemblyReference.cache
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\bin\Debug\Ui1.exe.config
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\obj\x86\Debug\Ui1.exe
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\obj\x86\Debug\Ui1.pdb
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\bin\Debug\Ui1.exe
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\bin\Debug\Ui1.pdb
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csprojResolveAssemblyReference.cache
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_company_master.resources
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_loader_image.resources
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_main_form.resources
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_menu_master.resources
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_super_admin_control_panel.resources
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_event_mapped.resources
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_login.resources
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_menu_mapped.resources
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\obj\x86\Debug\Ui1.Properties.Resources.resources
+D:\APP BACKUP\DEC2023\18_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csproj.GenerateResource.Cache
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\bin\Debug\Ui1.exe.config
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.exe
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.pdb
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\bin\Debug\Ui1.exe
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\bin\Debug\Ui1.pdb
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csprojResolveAssemblyReference.cache
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_company_master.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_loader_image.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_main_form.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_super_admin_control_panel.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_event_mapped.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_login.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_menu_mapped.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.Properties.Resources.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csproj.GenerateResource.Cache
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_event_master.resources
+D:\APP BACKUP\DEC2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_menu_master.resources
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\bin\Debug\Ui1.exe.config
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.exe
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\bin\Debug\Ui1.exe
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\bin\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csprojResolveAssemblyReference.cache
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_company_master.resources
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_loader_image.resources
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_main_form.resources
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_event_master.resources
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_menu_master.resources
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_super_admin_control_panel.resources
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_event_mapped.resources
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_login.resources
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_menu_mapped.resources
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.Properties.Resources.resources
+C:\Backup\APP BACKUP\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csproj.GenerateResource.Cache
+C:\Backup\APP BACKUP\21_12_2023\19_12_2023\ui1\ui1\bin\Debug\Ui1.exe.config
+C:\Backup\APP BACKUP\21_12_2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.exe
+C:\Backup\APP BACKUP\21_12_2023\19_12_2023\ui1\ui1\obj\x86\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\22_12_2023\ui1\ui1\bin\Debug\Ui1.exe.config
+C:\Backup\APP BACKUP\22_12_2023\ui1\ui1\obj\x86\Debug\Ui1.exe
+C:\Backup\APP BACKUP\22_12_2023\ui1\ui1\obj\x86\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\bin\Debug\Ui1.exe.config
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\obj\x86\Debug\Ui1.exe
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\obj\x86\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\bin\Debug\Ui1.exe
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\bin\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csprojResolveAssemblyReference.cache
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_company_master.resources
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_loader_image.resources
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_main_form.resources
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_event_master.resources
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_menu_master.resources
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_super_admin_control_panel.resources
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_event_mapped.resources
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_login.resources
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_menu_mapped.resources
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\obj\x86\Debug\Ui1.Properties.Resources.resources
+C:\Backup\APP BACKUP\23_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csproj.GenerateResource.Cache
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\bin\Debug\Ui1.exe.config
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\obj\x86\Debug\Ui1.exe
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\obj\x86\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\bin\Debug\Ui1.exe
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\bin\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csprojResolveAssemblyReference.cache
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_company_master.resources
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_loader_image.resources
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_main_form.resources
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_event_master.resources
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_menu_master.resources
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_super_admin_control_panel.resources
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_event_mapped.resources
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_login.resources
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_menu_mapped.resources
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\obj\x86\Debug\Ui1.Properties.Resources.resources
+C:\Backup\APP BACKUP\24_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csproj.GenerateResource.Cache
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\bin\Debug\Ui1.exe.config
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Debug\Ui1.exe
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\bin\Debug\Ui1.exe
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\bin\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csprojResolveAssemblyReference.cache
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_company_master.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_loader_image.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_main_form.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_event_master.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_menu_master.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_super_admin_control_panel.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_event_mapped.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_login.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_menu_mapped.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Debug\Ui1.Properties.Resources.resources
+C:\Backup\APP BACKUP\26_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csproj.GenerateResource.Cache
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\bin\Debug\Ui1.exe.config
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\obj\x86\Debug\Ui1.exe
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\obj\x86\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\bin\Debug\Ui1.exe
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\bin\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csprojResolveAssemblyReference.cache
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_company_master.resources
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_loader_image.resources
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_main_form.resources
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_event_master.resources
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_menu_master.resources
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_super_admin_control_panel.resources
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_event_mapped.resources
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_login.resources
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_menu_mapped.resources
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\obj\x86\Debug\Ui1.Properties.Resources.resources
+C:\Backup\APP BACKUP\27_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csproj.GenerateResource.Cache
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\bin\Debug\Ui1.exe.config
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\obj\x86\Debug\Ui1.exe
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\obj\x86\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\bin\Debug\Ui1.exe
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\bin\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csprojResolveAssemblyReference.cache
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_company_master.resources
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_loader_image.resources
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_main_form.resources
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_event_master.resources
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_menu_master.resources
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_super_admin_control_panel.resources
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_event_mapped.resources
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_login.resources
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\obj\x86\Debug\Ui1.f_user_menu_mapped.resources
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\obj\x86\Debug\Ui1.Properties.Resources.resources
+C:\Backup\APP BACKUP\29_12_2023\ui1\ui1\obj\x86\Debug\Ui1.csproj.GenerateResource.Cache
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\bin\Debug\Ui1.exe.config
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.exe
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\bin\Debug\Ui1.exe
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\bin\Debug\Ui1.pdb
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.csprojResolveAssemblyReference.cache
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_company_master.resources
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_loader_image.resources
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_main_form.resources
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_event_master.resources
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_menu_master.resources
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_super_admin_control_panel.resources
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_user_event_mapped.resources
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_user_login.resources
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_user_menu_mapped.resources
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.Properties.Resources.resources
+C:\Backup\APP BACKUP\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.csproj.GenerateResource.Cache
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\bin\Debug\Ui1.exe.config
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.exe
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.pdb
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\bin\Debug\Ui1.exe
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\bin\Debug\Ui1.pdb
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.csprojResolveAssemblyReference.cache
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_company_master.resources
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_loader_image.resources
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_main_form.resources
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_event_master.resources
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_menu_master.resources
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_super_admin_control_panel.resources
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_user_event_mapped.resources
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_user_login.resources
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_user_menu_mapped.resources
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.Properties.Resources.resources
+C:\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.csproj.GenerateResource.Cache
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\bin\Debug\Ui1.exe.config
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.exe
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.pdb
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\bin\Debug\Ui1.exe
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\bin\Debug\Ui1.pdb
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.csprojResolveAssemblyReference.cache
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_company_master.resources
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_loader_image.resources
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_main_form.resources
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_event_master.resources
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_menu_master.resources
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_super_admin_control_panel.resources
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_user_event_mapped.resources
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_user_login.resources
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.f_user_menu_mapped.resources
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.Properties.Resources.resources
+C:\DINESH\backup\13_ISSUES_HELPER\C#Learning\08_01_2024\08_01_2024\ui1\ui1\obj\x86\Debug\Ui1.csproj.GenerateResource.Cache
